@@ -52,13 +52,13 @@ The application analyzes YouTube videos and provides a structured overview of th
 
 ## Technologies Used
 
-Python
-Agno
-Groq
-YouTube Tools
-YouTube Transcript API
-Streamlit
-python-dotenv
+1. Python
+2. Agno
+3. Groq
+4. YouTube Tools
+5. YouTube Transcript API
+6. Streamlit
+7. python-dotenv
 
 ## Project Structure
 ```text
