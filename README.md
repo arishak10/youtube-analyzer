@@ -51,6 +51,7 @@ The application analyzes YouTube videos and provides a structured overview of th
 ```
 
 ## Technologies Used
+
 -Python
 -Agno
 -Groq
